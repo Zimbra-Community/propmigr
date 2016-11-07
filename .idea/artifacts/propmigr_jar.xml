@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="propmigr:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/propmigr_jar</output-path>
+    <root id="archive" name="propmigr.jar">
+      <element id="module-output" name="propmigr" />
+    </root>
+  </artifact>
+</component>
